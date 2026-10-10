@@ -396,7 +396,7 @@
     "layered": {
       "title": "Información básica sobre protección de datos",
       "controller": "Responsable",
-      "controllerValue": "[DATOS EMPRESA]",
+      "controllerValue": "Delta Code SL (NIF B00000000)",
       "purpose": "Finalidad",
       "basis": "Base legal",
       "rights": "Derechos",
@@ -1339,7 +1339,7 @@
       "keptTitle": "Qué se conserva (bloqueado)",
       "kept": "Solo lo que exige la ley: facturas durante 6 años, evidencias de consentimiento hasta que prescriban las acciones y bans por hash mientras duren. Nadie puede usarlos para otra cosa.",
       "rightsTitle": "Otros derechos",
-      "rights": "Acceso, rectificación, oposición, limitación y portabilidad desde Perfil › Privacidad y datos, o por email a [DATOS EMPRESA: email de privacidad]. Respondemos en un máximo de 1 mes. Puedes reclamar ante la AEPD."
+      "rights": "Acceso, rectificación, oposición, limitación y portabilidad desde Perfil › Privacidad y datos, o por email a deltacode2026@gmail.com. Respondemos en un máximo de 1 mes. Puedes reclamar ante la AEPD."
     },
     "illegal": {
       "title": "Notificar contenido ilegal",
@@ -1374,23 +1374,23 @@
     "contact": {
       "title": "Contacto",
       "hint": "Soporte, privacidad y punto de contacto DSA",
-      "intro": "[DATOS EMPRESA: razón social, NIF y domicilio]. Respondemos en español e inglés.",
+      "intro": "Delta Code SL, NIF B00000000, Calle Inventada 0, 00000 Ciudad Ficticia. Respondemos en español e inglés.",
       "channels": {
         "general": {
           "title": "Soporte",
-          "body": "[DATOS EMPRESA: email de soporte]"
+          "body": "deltacode2026@gmail.com"
         },
         "privacy": {
           "title": "Privacidad y derechos",
-          "body": "[DATOS EMPRESA: email del responsable de privacidad]"
+          "body": "deltacode2026@gmail.com"
         },
         "dsa": {
           "title": "Punto de contacto DSA",
-          "body": "Autoridades y usuarios: [DATOS EMPRESA: email DSA]"
+          "body": "Autoridades y usuarios: deltacode2026@gmail.com"
         },
         "venues": {
           "title": "Locales y patrocinio",
-          "body": "[DATOS EMPRESA: email comercial]"
+          "body": "deltacode2026@gmail.com"
         }
       }
     }

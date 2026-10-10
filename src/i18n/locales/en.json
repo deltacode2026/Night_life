@@ -396,7 +396,7 @@
     "layered": {
       "title": "Basic data protection information",
       "controller": "Controller",
-      "controllerValue": "[COMPANY DATA]",
+      "controllerValue": "Delta Code SL (Tax ID B00000000)",
       "purpose": "Purpose",
       "basis": "Legal basis",
       "rights": "Rights",
@@ -1339,7 +1339,7 @@
       "keptTitle": "What is kept (locked)",
       "kept": "Only what the law requires: invoices for 6 years, consent evidence until claims expire and hash bans while they last. Nobody can use them for anything else.",
       "rightsTitle": "Other rights",
-      "rights": "Access, rectification, objection, restriction and portability from Profile › Privacy & data, or by email to [COMPANY DATA: privacy email]. We answer within 1 month. You can complain to the Spanish DPA (AEPD)."
+      "rights": "Access, rectification, objection, restriction and portability from Profile › Privacy & data, or by email to deltacode2026@gmail.com. We answer within 1 month. You can complain to the Spanish DPA (AEPD)."
     },
     "illegal": {
       "title": "Report illegal content",
@@ -1374,23 +1374,23 @@
     "contact": {
       "title": "Contact",
       "hint": "Support, privacy and DSA point of contact",
-      "intro": "[COMPANY DATA: legal name, tax ID and address]. We answer in Spanish and English.",
+      "intro": "Delta Code SL, Tax ID B00000000, Calle Inventada 0, 00000 Ciudad Ficticia. We answer in Spanish and English.",
       "channels": {
         "general": {
           "title": "Support",
-          "body": "[COMPANY DATA: support email]"
+          "body": "deltacode2026@gmail.com"
         },
         "privacy": {
           "title": "Privacy and rights",
-          "body": "[COMPANY DATA: privacy officer email]"
+          "body": "deltacode2026@gmail.com"
         },
         "dsa": {
           "title": "DSA point of contact",
-          "body": "Authorities and users: [COMPANY DATA: DSA email]"
+          "body": "Authorities and users: deltacode2026@gmail.com"
         },
         "venues": {
           "title": "Venues and sponsorship",
-          "body": "[COMPANY DATA: sales email]"
+          "body": "deltacode2026@gmail.com"
         }
       }
     }
