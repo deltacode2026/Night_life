@@ -20,4 +20,4 @@ npm run build      # build de producción (dist/)
 
 Stack: React 19, TypeScript, Vite, Tailwind CSS, ShadCN/Radix, Motion, TanStack Query, Zod,
 i18next, Supabase (eu-west-1) y Vercel.
-Delta Code 2026
+Delta Code 2026. 
